@@ -1,6 +1,6 @@
 ### TASK 
 
-* What do we mean by coupling and cohesion when discussing structured design?
+#### *What do we mean by coupling and cohesion when discussing structured design?*
 
 
 What is the difference between top-down and bottom-up design? Which best describes a function oriented design?
